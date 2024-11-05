@@ -1,13 +1,13 @@
 
-# Log ...🚀 
+# Log ...🚀
 
 
 
 # Project & Portfolio
-### First & Last Name 
+### David Ervin
 
 
-![Degree Program](https://img.shields.io/badge/degree-web%20development-blue.svg)&nbsp; 
+![Degree Program](https://img.shields.io/badge/degree-web%20development-blue.svg)&nbsp;
 
 <br>
 
