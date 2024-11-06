@@ -4,7 +4,7 @@
 
 
 # Project & Portfolio
-### David Ervin
+### First & Last Name
 
 
 ![Degree Program](https://img.shields.io/badge/degree-web%20development-blue.svg)&nbsp;
@@ -28,7 +28,23 @@ Each week I will summarize my milestone activity and progress by writing a stand
 
 ### Week 1
 
-Replace this paragraph with your stand up for this week. Use the prompts above to summarize your most recent milestone activity and work.
+⚙️ Overview - This week I worked on getting my repository set up and started working on my project proposal.
+<br>
+🌵 Challenges - What problems did I have & how I'm addressing them?
+
+>I had a hard time getting started on my project proposal. Gathering information and writing about my project proved difficult. I struggle getting my thoughts into words.
+
+<br>
+
+🏆 Accomplishments - What is something I "leveled up" on this week
+
+> I was able to get my repository set up and write a draft of my project proposal.
+
+<br>
+
+🔮 Next Steps - What I plan to prioritize and do next
+
+> I plan to go back and revise my project proposal to make it more clear and concise. As well as start working on week 2 of my project.
 
 ### Week 2
 
