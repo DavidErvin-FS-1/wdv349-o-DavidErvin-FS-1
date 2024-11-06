@@ -1,77 +1,86 @@
-# [Concept Name]
+# RPG Game
 
 ## Application Definition Statement
 
-*A clear high-level summary should be used to introduce the concept. This should be similar to an elevator pitch or a conversational reply to "What are you building?”. You will explore the audience and their demographics, the problem they are having, and your solution in subsequent sections in more detail but touch on them here.* 
-
-*Clarity over quantity should be the focus, to that end, creating visuals/charts to explain the more complex data or logical points could help to reinforce your Application’s Definition Statement.*
-
-[ Replace this text with your Application Definition Statement ] 
+I want to build a single-player RPG game where players can create unique characters, and progress through leveling system to gain experience, skills, and equipment. The game will be text-based, with a focus on interactive decision-making. Players will be able to make choices that affect the outcome of the game, such as choosing which path to take, which enemies to fight, and which items to use. Every decision will have consequences, and players will need to use their skills and equipment wisely to overcome challenges and progress through the game.
 
 
 ## Target Market
 
-*Using Primary and Secondary research, describe the people most likely to be utilizing your application. What are their ages, education level, employment sector, income level, hobbies, or any other defining characteristics that set them apart from other groups of people? Identifying specific groups will help drive application design choices.*
-
-*Primary Research is research that you have conducted yourself and is not based on secondary sources. Examples of Primary Research include surveys, interviews, and focus groups. This doesn't have to be formal in nature and can include discussions you have with individuals that are likely users of your application. Secondary Research is research that has been conducted by others and is based on their findings. Examples of Secondary Research include market research reports, industry publications, and news articles.*
-
-[ Replace this text with a description of any Primary and Secondary research you conducted to determine the Target Market for your application. Link to any references used during this research. ]
+The target market for this application is people who enjoy RPG games, and are looking for a text-based experience that they can play anywhere. The game will be designed to be accessible to people of all ages, and will be easy to pick up and play. The game will also be designed to be challenging and engaging, with a focus on strategy and decision-making.
 
 
 ## User Profile / Persona
 
-*User profiles are a snapshot of an actual person and helps to open a window into the mind of an actual user and will provide insight while tailoring and refining interaction details to best fit your ideal users within your Target Market.*
-
-
-[ Replace this text with a User Profile / Persona for your application. If necessary, research 'Web User Persona' to generate ideas. ]
+- Name: John
+- Age: 25
+- Occupation: Student
+- Needs: John enjoys playing video games in his free time, and particularly enjoys RPG games. He is looking for a new game that he can play even when he is on the go, and that he can pick up and play for a few minutes at a time and still make progress.
+- Goals: John wants to find a game that is challenging and engaging, and that he can play anywhere. He is looking for a game that he can play in short bursts, and that he can pick up and play without needing to invest a lot of time.
 
 
 ## Use Cases
 
-*A 'Use Case' describes how a user may interact with your application. It provides a series of steps to reach a desired result. If a user wants to listen to some music during a workout, how many clicks would it take to do that? Begin with a simple question like that and then map out the different steps to reach the desired goal. Use cases help us think through how our application will be used.*
+- **Character Creation:** Upon visiting the game, the player will be asked to login or create a new account. If the player is new, they will immediately be taken to the character creation screen, where they can choose their character's name, allocate stat points, and choose from a variety of abilities.
+  1. User navigates to the game's website.
+  2. User is prompted to login or create a new account.
+  3. User chooses to create a new account.
+  4. User fills out registration form with username, password, and email.
+  5. User is taken to the character creation screen.
+  6. User chooses their character's name by typing it into a text box labeled "Character Name".
+  7. User allocates stat points by clicking on buttons or typing values into boxes labeled according to the stats they affect. For example, "Strength", "Dexterity", "Intelligence", etc.
+  8. User chooses abilities by selecting from a list of available abilities. Each ability will have a description and a requirement for use.
+  9. User clicks "Create Character" button to finalize their character creation.
+  10. User is taken to the game's main screen, where they can begin playing.
 
-*Use Cases help drive design decisions as well as testing procedures. During development we regularly test and confirm the work in progress matches up with our Use Cases. This provides valuable insight into how our application is addressing the needs of the user and allows us to correct missteps early. This [article](https://www.softwaretestinghelp.com/use-case-testing/) gives additional background Use Cases and Use Case Testing.*
-
-[ Describe two or more Use Cases for your application. Use a bulleted list to describe the steps involved in each Use Case. ]
+- **Playing the Game:** Once the player has created their character, they will be taken to the game's main screen, where they can view their character's stats, abilities, and equipment.
+  1. User is taken to the game's main screen after creating their character.
+  2. User clicks on the "Begin" button to start the game.
+  3. User is presented with text-based description of their location and scenarios and buttons to select a decision.
+  4. User clicks on one of the options to make a decision.
+  5. User is presented with the outcome of their decision, which may include gaining experience, finding items, or encountering enemies.
+  6. User can continue to make decisions and progress through the game, gaining experience, skills, and equipment along the way.
 
 
 ## Problem Statement
 
-*In a few sentences explain the problem your target market is seeing that requires this project to be built. This will identify why is your application needed and needs to be supported by Primary Research.*
+Many fans of RPG games seek immersive, skill-based experiences without the complexity of large, downloadable games. They want to be able to play a game that they can pick up and play in short bursts, and that they can access from anywhere. Most RPG games are large, complex, and are not designed for quick, casual play.
 
-[ Replace this text with a Problem Statement for your application. Include any Research that supports your Problem Statement. ]
+## Problem Statement
+
+Many fans of RPG games seek immersive, skill-based experiences without the complexity of large, downloadable games. They want to be able to play a game that they can pick up and play in short bursts, and that they can access from anywhere. Most RPG games are large, complex, and are not designed for quick, casual play.
 
 
 ## Pain Points
 
-*Explain your audience’s pain points that are contributing to their defined problem and their impact on the user. Primary Research should support your explanations.*
-
-[ Replace this text with a description of the Pain Points your audience is experiencing. Include any Research that supports your Pain Points. ]
+- **Accessibility:** Many RPG games are large, complex, and require a significant time investment to play. This can be a barrier to entry for people who are looking for a quick, casual gaming experience just to pass the time.
+- **Portability:** Many RPG games are designed for specific platforms, such as consoles or PCs. This can be a barrier to entry for people who are looking for a game that they can play on their phone or computer.
 
 ## Solution Statement
 
-*How is your project going to solve the problem outlined above? Consider the competing products in your market space. What makes your solution different from other’s attempts to solve the problem? How are you able to better solve the defined problem for your audience than your competition?*
-
-[ Replace this text with a Solution Statement for your application. Include any Research that supports your Solution Statement. ]
+Text RPG simplifies the RPG experience into a web-based format, emphasizing character progression, turn-based combat, and interactive decision-making while providing a quick, strategic gaming experience in the browser, allowing players to jump in, level up, and enjoy quality character development and combat.
 
 ## Competition
 
-*What competing products exist to solve this or a similar problem? Identify and summarize competing products and how their approach to solving your identified problem differ from your own.*
+While there are many text-based RPG games available online, most of them are simple, text-only games that lack depth and complexity. I want to create a text-based RPG game that combines the simplicity of text-based games with the depth and complexity of traditional RPG games, providing players with a rich, immersive experience that they can enjoy anywhere.
 
-[ Replace this text with a description of the Competition for your application. Include any Research that supports your description. Competition can be direct or indirect. Direct competition is a product that solves the same problem as your application. Indirect competition is a product that solves a similar problem as your application. ]
+Some of the most popular text-based RPG games include:
+
+- **[Kingdom of Loathing]((https://www.kingdomofloathing.com/)):** A humorous, text-based RPG game that features a unique art style and a wide variety of quests and activities.
+- **[A Dark Room](https://adarkroom.doublespeakgames.com/):** A minimalist, text-based RPG game that focuses on survival and exploration in a post-apocalyptic world.
+- **[Torn](https://adarkroom.doublespeakgames.com/):** A text-based RPG game that features a modern, crime-themed setting and a wide variety of activities and interactions. [link](https://www.torn.com/)
 
 
 ## Features & Functionality
 
-*Define key features and functionality intended to provide solutions to specific problems and pain points you have identified. These key items should be specifically defined in response to problems / pain points.*
-
-*A good way to identify a Key Feature is to use the phrase 'In order to [solve this problem] I need to [do this]'. For example, 'In order to listen to music while I workout I need to be able to create a playlist'.*
-
-*Features and functionality should be prioritized based on their importance to the user. This will help you focus on the most important features first and then add additional features as time allows.*
-
-[ Replace this text with a list of Key Features and Functionality for your application. Include a description of each feature and how it will solve a specific problem or pain point. For example, 'Playlist: The user will have the ability to create a playlist of songs they want to listen to while working out. This will allow them to listen to the music they want to hear while working out.' ]
+- **Character Creation:** Players can create unique characters by choosing their name, allocating stat points, and selecting abilities.
+- **Progression System:** Players can gain experience, level up, and unlock new abilities and equipment as they progress through the game.
+- **Decision-Making:** Players can make decisions that affect the outcome of the game, such as choosing which path to take, which enemies to fight, and which items to use.
+- **Combat System:** Players can engage in turn-based combat with enemies, using their abilities and equipment to defeat them.
+- **Inventory System:** Players can manage their inventory, equip items, and use consumables to aid them in their journey.
 
 
 ## Integrations
 
-*Use of an API is expected. This can be 3rd party APIs, your own API, or a combination of data sets. Identify which integrations are planned for and outline how you will use them transformatively. For 3rd party APIs provide links to their respective documentation and verify that your intended use complies with their Terms of Service.*
+- **[D&D 5e API](https://www.dnd5eapi.co/):** I plan to integrate the D&D 5e API to provide data for the game to include equipment, items, and monsters.
+- **[RPG Dice Roller](https://dice-roller.github.io/documentation/guide/)**: I plan to integrate Dice Roller to provide random number generation for combat and other game mechanics.
