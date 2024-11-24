@@ -48,7 +48,23 @@ Each week I will summarize my milestone activity and progress by writing a stand
 
 ### Week 2
 
-My next stand up will go here...
+⚙️ Overview - This week I worked on getting my repository set up and started working on my project proposal.
+<br>
+🌵 Challenges - What problems did I have & how I'm addressing them?
+
+> Design is not my strong suit. I have struggled with creating a design for my project. I happened to be doom scrolling late one night and found a design that I liked and decided to use it as inspiration for my project.
+
+<br>
+
+🏆 Accomplishments - What is something I "leveled up" on this week
+
+> I create a style tile and wireframe design for my project.
+
+<br>
+
+🔮 Next Steps - What I plan to prioritize and do next
+
+> I plan to continue fine tuning my design and color scheme. I also plan to begin researching for week 3 of my project.
 
 ### Week 3
 
